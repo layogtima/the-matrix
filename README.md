@@ -20,7 +20,11 @@ Assemble your Matrix! Get these parts together,
 - [ ] Wires
 - [ ] Soldering Iron
 
-## TODO WIRING DIAGRAM AND ASSEMBLY INFORMATiON HERE 
+## Circuit Diagram
+
+![image](https://github.com/Absurd-Industries/the-matrix/assets/77329899/4441ea64-05e9-4811-bc75-7564bcb67f7e)
+
+## TODO ASSEMBLY INFORMATION HERE 
 
 ## Setting up CircuitPython
 
